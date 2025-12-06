@@ -1,6 +1,6 @@
 from addition import add
 
-def test_add__positive_number():
+def test_add_positive_number():
     assert add(2, 3) == 5
 
 def test_add_negative_number():
